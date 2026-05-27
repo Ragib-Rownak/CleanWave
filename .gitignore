@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+temp/
+outputs/
+branding_logo.png
+logo.png
+AGENTS.md
+test_samples/
